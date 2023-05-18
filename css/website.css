@@ -1,0 +1,35 @@
+body{ background:#222;  }
+
+img{ float:left; }
+
+.one a{ word-spacing:10px; text-decoration:none; position:relative; left:55px; font-size:15px;  background:#222;  }
+
+.one a:hover{ color:rgb(210,210,210); }
+
+div{ width:1000px; margin:auto; background:#222;   }
+
+h2,h1, .one a{ color:rgb(240,240,240); font-family:arial; }
+
+h1{ position:relative; top:10px; font-size: 44px; font-weight:700px; letter-spacing:none; word-spacing:none; }
+
+hr{ border-top:1px;  border-color:#333; }
+
+h2{ font-size:34px; position:relative; top:20px; letter-spacing:none; }
+
+table{ border-collapse:collapse;  margin-top:20px; }
+
+table th{ color:white; font-family:arial; background:#333; padding-top:8px; padding-bottom:8px;}
+
+table, th, td{border: 1px solid #555; height:20px}
+
+table td a{text-decoration:none; color:rgb(84,172,238); font-family:arial; width:1000px; float:right; }
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color:#222;}
+tr:nth-child(odd) {background-color:black;}
+
+
